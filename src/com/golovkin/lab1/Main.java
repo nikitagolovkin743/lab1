@@ -3,7 +3,7 @@ package com.golovkin.lab1;
 import com.golovkin.lab1.utils.CaseConverter;
 
 public class Main {
-	private static final String errorMessage = "Введите первым аргументом UPPERCASE или LOWERCASE, а затем строку, регистр которой необходимо преобразовать";
+	private static final String errorMessage = "Enter UPPERCASE or LOWERCASE as the first argument and the string whose case you want to convert";
 	
 	private static final String UPPERCASE_ARG_KEYWORD = "UPPERCASE";
 	private static final String LOWERCASE_ARG_KEYWORD = "LOWERCASE";
