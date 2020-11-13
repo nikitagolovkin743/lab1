@@ -1,0 +1,1 @@
+java -jar Lab1.jar UPPERCASE "What's up?"

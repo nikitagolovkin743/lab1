@@ -1,0 +1,1 @@
+Main-Class: com.golovkin.lab1.Main

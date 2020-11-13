@@ -1,0 +1,1 @@
+jar cfvm Lab1.jar MANIFEST.MF -C output .
